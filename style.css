@@ -1,0 +1,21 @@
+h1{
+    text-align: center;
+    font-style:normal;
+    color:rgb(228, 132, 6);
+    font-size: 70px;
+}
+.bgimage{
+    background-image: url(pic.png);
+    background-size: cover;
+    height:cover;
+    width:auto;
+}
+a{
+    text-align:center;
+    font-size: 40px;
+    color:rgb(39, 36, 34);
+    font-style:italic;
+}
+ul{
+    list-style: none;
+}
